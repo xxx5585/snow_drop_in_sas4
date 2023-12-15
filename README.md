@@ -1,5 +1,4 @@
 # snow_drop_in_sas4
-<<<<<<< HEAD
 
 This code makes it snow in a SAS4 game.
 My video.
@@ -16,5 +15,3 @@ You can also use this python code.
   > python snow_drop.py
 Done.
 
-=======
->>>>>>> refs/remotes/origin/main
