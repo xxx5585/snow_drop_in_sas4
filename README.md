@@ -1,7 +1,8 @@
 # snow_drop_in_sas4
 
 This code makes it snow in a SAS4 game.
-My video.
+
+## Video
 https://youtube.com/shorts/s1oWrAmkx0M
 
 ## Usage
@@ -13,5 +14,6 @@ You can also use this python code.
 3. run sas4 app in your PC
 4. run this code file.
   > python snow_drop.py
+
 Done.
 
